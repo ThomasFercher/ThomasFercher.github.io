@@ -3,26 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3ab59dc24990e190fb93234bb552475b",
-"assets/assets/flares/legend_error.riv": "1ae8d1ba2bd75596ce425136a538f961",
-"assets/assets/flares/legend_fail.riv": "acf50e20c1d2ce743e987a28e0cacca4",
-"assets/assets/flares/legend_sucess.riv": "67d597d18ecde4bddf8dadaa567bd4b7",
-"assets/assets/photos/larrylegend.png": "b7b256e990283abab941627edea45318",
-"assets/assets/photos/larrylegend.svg": "a66ded405e81f849fe9d1fc9369bd680",
-"assets/assets/photos/larrylegend_sm.png": "45bbae4b584fe33f15c7c20a4e808b9c",
-"assets/FontManifest.json": "f57f2fc28e24d18891c812e0cf08031d",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "e1a3bb6e15eae895727b3107f1977f69",
-"assets/packages/antdesign_icons/font/ant_icons.ttf": "faadd570b8e9f51a7ca1366089f6dc7d",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+  "index.html": "ab231ee8dbeeb63b747c8635691a3c33",
+"/": "ab231ee8dbeeb63b747c8635691a3c33",
+"main.dart.js": "6c83c8f7a3eeed53d1e097ac0beb9b31",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "e4182d870fdf9692f88eb38cf7904a2d",
-"/": "e4182d870fdf9692f88eb38cf7904a2d",
-"main.dart.js": "6c898ae097f0c49669aa069de5f97570",
-"manifest.json": "19ca024462fe597011fd18d01fdfcd42",
-"version.json": "cda27a7af99052d107376e572e10ce61"
+"version.json": "4a1ddc3a40bfade331b434343229d116",
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"manifest.json": "5195013cf6227aa5d17a69e30378f583",
+"assets/FontManifest.json": "f57f2fc28e24d18891c812e0cf08031d",
+"assets/AssetManifest.json": "3ab59dc24990e190fb93234bb552475b",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/NOTICES": "dc2f1548ddcadd08678d8ef8ab857249",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/antdesign_icons/font/ant_icons.ttf": "faadd570b8e9f51a7ca1366089f6dc7d",
+"assets/assets/flares/legend_sucess.riv": "67d597d18ecde4bddf8dadaa567bd4b7",
+"assets/assets/flares/legend_error.riv": "1ae8d1ba2bd75596ce425136a538f961",
+"assets/assets/flares/legend_fail.riv": "acf50e20c1d2ce743e987a28e0cacca4",
+"assets/assets/photos/larrylegend.png": "b7b256e990283abab941627edea45318",
+"assets/assets/photos/larrylegend.svg": "0d0c4fd0a6f929c44b54aac1e1bfc05e",
+"assets/assets/photos/larrylegend_sm.png": "45bbae4b584fe33f15c7c20a4e808b9c",
+"canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
+"canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
+"canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
+"canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c"
 };
 
 // The application shell files that are downloaded before a service worker can
