@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "99b566595a70ad43135e94aa61ee37c7",
-"index.html": "dcb136825b3682f41f29eefdc4c5a5e6",
-"/": "dcb136825b3682f41f29eefdc4c5a5e6",
-"main.dart.js": "1db2de674784a7451ee69edba2a23b0d",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "df2220b0898dcb0b052595b126a9a8ae",
+"/": "df2220b0898dcb0b052595b126a9a8ae",
+"main.dart.js": "c36e2a38b3442029f8b377d41ad96a0b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -26,11 +25,7 @@ const RESOURCES = {
 "assets/assets/flares/legend_error.riv": "1ae8d1ba2bd75596ce425136a538f961",
 "assets/assets/photos/larrylegend.png": "b7b256e990283abab941627edea45318",
 "assets/assets/photos/larrylegend.svg": "f9770fcda793303d2331ebc2f7f5de24",
-"assets/assets/photos/larrylegend_sm.png": "45bbae4b584fe33f15c7c20a4e808b9c",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/photos/larrylegend_sm.png": "45bbae4b584fe33f15c7c20a4e808b9c"
 };
 
 // The application shell files that are downloaded before a service worker can
